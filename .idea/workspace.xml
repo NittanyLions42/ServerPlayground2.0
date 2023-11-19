@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c93c910-5111-4050-9822-154a2128f3ed" name="Changes" comment="Added all the files from 1.0, dealt with some intelliJ shenanigans but this is cleaner now.">
+    <list default="true" id="4c93c910-5111-4050-9822-154a2128f3ed" name="Changes" comment="Was able to insert a user into the database, and query and verify credentials! Next is getting encryption/decryption cleared up, then parse input, and then incorporate into mobile app.">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6861612b-7b06-45e2-994d-a0a16cf5bce4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6861612b-7b06-45e2-994d-a0a16cf5bce4/storage_v2/_src_/schema/credentialbase.qOsHSA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6861612b-7b06-45e2-994d-a0a16cf5bce4/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6861612b-7b06-45e2-994d-a0a16cf5bce4/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DBManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DBManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +63,11 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -83,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700411519662</updated>
-      <workItem from="1700411520688" duration="1532000" />
+      <workItem from="1700411520688" duration="6047000" />
     </task>
     <task id="LOCAL-00001" summary="Added all the files from 1.0, dealt with some intelliJ shenanigans but this is cleaner now.">
       <option name="closed" value="true" />
@@ -93,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700412477084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added all the files from 1.0, dealt with some intelliJ shenanigans but this is cleaner now.">
+      <option name="closed" value="true" />
+      <created>1700414136899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700414136899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added all the files from 1.0, dealt with some intelliJ shenanigans but this is cleaner now." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added all the files from 1.0, dealt with some intelliJ shenanigans but this is cleaner now." />
+    <MESSAGE value="Was able to insert a user into the database, and query and verify credentials! Next is getting encryption/decryption cleared up, then parse input, and then incorporate into mobile app." />
+    <option name="LAST_COMMIT_MESSAGE" value="Was able to insert a user into the database, and query and verify credentials! Next is getting encryption/decryption cleared up, then parse input, and then incorporate into mobile app." />
   </component>
 </project>
